@@ -1,0 +1,8 @@
+category: Games
+requires: libcairo2 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libintl8
+sdesc: "A traditional game of Brunei"
+ldesc: "Pasang is a traditional game of Brunei. In this game, black and 
+white tokens are arranged on a playing board, forming a pattern. There 
+is a catalogue of more than 30 different patterns. Two players take turn 
+capturing these tokens; he game ends when the board is empty, or when a 
+player runs out of moves."
