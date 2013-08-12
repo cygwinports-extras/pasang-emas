@@ -1,0 +1,14 @@
+inherit gnome2
+
+NAME="pasang-emas"
+VERSION=4.0.0
+RELEASE=1
+CATEGORY="Games"
+SUMMARY="A traditional game of Brunei"
+DESCRIPTION="Pasang is a traditional game of Brunei. In this game, black and
+white tokens are arranged on a playing board, forming a pattern. There is a
+catalogue of more than 30 different patterns. Two players take turn capturing
+these tokens; he game ends when the board is empty, or when a player runs out
+of moves."
+HOMEPAGE="http://pasang-emas.sourceforge.net/"
+SRC_URI="mirror://sourceforge/pasang-emas/${NAME}-${VERSION}.tar.bz2"

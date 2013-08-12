@@ -1,5 +1,0 @@
-inherit gnome2
-
-
-HOMEPAGE="http://pasang-emas.sourceforge.net/"
-SRC_URI="mirror://sourceforge/pasang-emas/${P}.tar.bz2"
